@@ -1,1 +1,1 @@
-# Identifying-ineffective-operators
+# Identifying ineffective operators
